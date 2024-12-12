@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+nltk
+allennlp==1.0.0
+transformers
